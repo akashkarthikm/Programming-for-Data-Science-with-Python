@@ -28,6 +28,7 @@ This program was written in Python (version 3.7.1) and relies on the following l
 pandas==0.23.4
 numpy==1.15.4
 
+You can find the file [here](https://github.com/akashkarthikm/Programming-for-Data-Science-with-Python/blob/documentation/bikeshare.py) 
 
 # Project 3
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
