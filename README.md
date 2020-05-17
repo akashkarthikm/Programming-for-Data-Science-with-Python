@@ -30,3 +30,5 @@ numpy==1.15.4
 
 # Project 3
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+  All the files used are uploaded above.
